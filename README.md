@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Brandon Rickman's ePortfolio page hosted by Github Pages
 
 You can use the [editor on GitHub](https://github.com/brandonrickman/brandonrickman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
