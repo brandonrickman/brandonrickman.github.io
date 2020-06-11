@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 ### Code Review
-![Image](https://github.com/brandonrickman/brandonrickman.github.io/img/cr1.jpg)
+![Image](https://github.com/brandonrickman/brandonrickman.github.io/crvid_thumb.png)
 Check out my [Video](https://youtu.be/XWNr-A46wPg) code review of the following artifacts.
 ```markdown
 ```
