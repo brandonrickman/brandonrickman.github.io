@@ -27,25 +27,25 @@ Syntax highlighted code block
 ```
 
 ### Code Review
-''' markdown
+```markdown
 ![Image](src)
 [Video](https://youtu.be/XWNr-A46wPg)
-'''
+```
 
 ### Software Engineering and Design
-'''markdown
+```markdown
 Artifact
-'''
+```
 
 ### Algorithm
-'''markdown
+```markdown
 Artifact
-'''
+```
 
 ### Database
-'''markdown
+```markdown
 Artifact
-'''
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
