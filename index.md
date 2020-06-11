@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 
 ### Code Review
+Check out my [Video](https://youtu.be/XWNr-A46wPg) code review of the following artifacts.
 ```markdown
 ![Image](src)
 [Video](https://youtu.be/XWNr-A46wPg)
