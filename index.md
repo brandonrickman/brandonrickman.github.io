@@ -1,6 +1,6 @@
-## Welcome to Brandon Rickman's ePortfolio page hosted by Github Pages
+## Welcome to Brandon Rickman's Computer Science ePortfolio
 
-You can use the [editor on GitHub](https://github.com/brandonrickman/brandonrickman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/brandonrickman/brandonrickman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -25,6 +25,26 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Code Review
+''' markdown
+[Link](https://youtu.be/XWNr-A46wPg)
+'''
+
+### Software Engineering and Design
+''' markdown
+Artifact
+'''
+
+### Algorithm
+''' markdown
+Artifact
+'''
+
+### Database
+''' markdown
+Artifact
+'''
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
