@@ -17,15 +17,7 @@
 
 #### Introduction
 
-Working on this capstone has directed all of my knowledge and skills that I have<br>
-acquired over the course of my education in the computer science program. I started<br>
-out working towards a goal of developing an immersive training system built with<br>
-artificial intelligence and virtual reality. However, that morphed into a love for<br>
-cybersecurity, digital forensics, hacking, and cryptology. Given the limited amount<br>
-of time I chose these artifacts to enhance due to their exposure and key<br>
-developmental time points in my educational program. Working on them again,<br>
-I realize how much I have grown in my understanding of the language, but more<br>
-importantly the concepts behind each language.
+Working on this capstone has directed all of my knowledge and skills that I have acquired over the course of my education in the computer science program. I started out working towards a goal of developing an immersive training system built with artificial intelligence and virtual reality. However, that morphed into a love for cybersecurity, digital forensics, hacking, and cryptology. Given the limited amount of time I chose these artifacts to enhance due to their exposure and key developmental time points in my educational program. Working on them again, I realize how much I have grown in my understanding of the language, but more importantly the concepts behind each language.
 	
 #### Collaborating in a Team
 
