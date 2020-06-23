@@ -17,23 +17,3 @@
 
 ![Image](https://brandonrickman.github.io/crvid_thumb.PNG)
 Check out my [Video](https://youtu.be/XWNr-A46wPg) code review of the following artifacts.
-
-
-### Software Engineering and Design
-
-Artifact
-
-
-### Algorithm
-
-Artifact
-
-
-### Database
-
-Artifact
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
