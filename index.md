@@ -3,51 +3,36 @@
 #### SNHU Computer Science Capstone
 
 
-### Markdown
+##### MENU
+* [Home](https://brandonrickman.github.io)
+* [Software Engineering & Design](https://brandonrickman.github.io/artifact1.java)
+  * Medical Patient App
+* [Algorithm](https://brandonrickman.github.io/artifact2.java)
+  * Zoo Authentication App
+* [Database](https://brandonrickman.github.io/artifact3.py)
+  * Stock Research App
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-```markdown
 ### Code Review
-```
+
 ![Image](https://brandonrickman.github.io/crvid_thumb.PNG)
 Check out my [Video](https://youtu.be/XWNr-A46wPg) code review of the following artifacts.
-```markdown
-```
+
 
 ### Software Engineering and Design
-```markdown
+
 Artifact
-```
+
 
 ### Algorithm
-```markdown
+
 Artifact
-```
+
 
 ### Database
-```markdown
-Artifact
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Artifact
+
 
 ### Support or Contact
 
