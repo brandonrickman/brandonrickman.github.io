@@ -5,11 +5,11 @@
 
 ##### MENU
 * [Home](https://brandonrickman.github.io)
-* [Software Engineering & Design](https://brandonrickman.github.io/artifact1.java)
+* [Software Engineering & Design](https://github.com/brandonrickman/brandonrickman.github.io/artifact1.java)
   * Medical Patient App
-* [Algorithm](https://brandonrickman.github.io/artifact2.java)
+* [Algorithm](https://github.com/brandonrickman/brandonrickman.github.io/artifact2.java)
   * Zoo Authentication App
-* [Database](https://brandonrickman.github.io/artifact3.py)
+* [Database](https://github.com/brandonrickman/brandonrickman.github.io/artifact3.py)
   * Stock Research App
 
 
