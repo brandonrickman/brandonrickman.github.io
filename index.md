@@ -1,8 +1,7 @@
-## Welcome to Brandon Rickman's Computer Science ePortfolio
+## Welcome to my Computer Science ePortfolio
+#### Created by: Brandon Rickman
+#### SNHU Computer Science Capstone
 
-You can use the [editor on GitHub](https://github.com/brandonrickman/brandonrickman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -25,8 +24,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+```markdown
 ### Code Review
+```
 ![Image](https://brandonrickman.github.io/crvid_thumb.PNG)
 Check out my [Video](https://youtu.be/XWNr-A46wPg) code review of the following artifacts.
 ```markdown
